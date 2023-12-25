@@ -1,3 +1,7 @@
+Description:
+-----------
+lcstr is a golang string format tool like QString in Qt. furthermore, if you cannot find a format function like python f-string in golang, lcstr may help you.
+
 Licence:
 -----------
 MIT
